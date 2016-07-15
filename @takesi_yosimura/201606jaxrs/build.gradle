@@ -1,0 +1,19 @@
+apply plugin: 'war'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+tasks.withType(JavaCompile) {
+    sourceCompatibility = '1.8'
+    targetCompatibility = '1.8'
+    options.encoding = 'UTF-8'
+}
+
+war.archiveName = 'jaxrs.war'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    providedCompile 'javax.ws.rs:javax.ws.rs-api:2.0.1'
+}
