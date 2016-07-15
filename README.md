@@ -9,7 +9,8 @@ http://javatoolstudy-fukuoka.connpass.com/event/33377/
 
 | 発表者 | テーマ | その他資料 |
 |------------|--------------|--------------|
-| takesi_yosimura | - | - |
+| takesi_yosimura | [JAX-RSの話を
+試みる](https://javatoolstudyfukuoka.github.io/Frameworks/@takesi_yosimura/#/) | [201606jaxrs](https://github.com/JavaToolStudyFukuoka/Frameworks/tree/master/%40takesi_yosimura/201606jaxrs) |
 | koduki | [Batch FrameworkとしてのApache Spark](https://koduki.github.io/docs/javaToolFk_20160617_spark-as-batch/#/) | - |
 | - | - | - |
 | - | - | - |
